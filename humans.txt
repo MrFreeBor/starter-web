@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Igor Stolyarov  igor@git.trainig    @awesomejt
 
 # THANKS
 
